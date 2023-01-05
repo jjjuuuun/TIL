@@ -5,4 +5,12 @@
 
 # 2023
 - 01.04
-    - [StyleGAN](https://github.com/jjjuuuun/jjjuuuun.github.io/blob/master/_posts/2023-01-04-StyleGAN.md)
+    - Paper Review
+        - [StyleGAN](https://github.com/jjjuuuun/jjjuuuun.github.io/blob/master/_posts/2023-01-04-StyleGAN.md)
+- 01.05
+    - 백준(BOJ)
+        - [1439번 - 뒤집기](https://github.com/jjjuuuun/jjjuuuun.github.io/blob/master/_posts/2023-01-05-BOJ-1439.md)
+    - 프로그래머스(Programmers)
+        - [42891번 - 무지의 먹방 라이브](https://github.com/jjjuuuun/jjjuuuun.github.io/blob/master/_posts/2023-01-05-Programmers-42891.md)
+        - [60057번 - 문자열 압축](https://github.com/jjjuuuun/jjjuuuun.github.io/blob/master/_posts/2023-01-05-Programmers-60057.md)
+        - [60059번 - 자물쇠와 열쇠](https://github.com/jjjuuuun/jjjuuuun.github.io/blob/master/_posts/2023-01-05-Programmers-60059.md)

@@ -22,3 +22,5 @@
     - 백준(BOJ)
         - [3190번 - 뱀](https://github.com/jjjuuuun/jjjuuuun.github.io/blob/master/_posts/2023-01-07-BOJ-3190.md)
         - [15686번 - 치킨 배달](https://github.com/jjjuuuun/jjjuuuun.github.io/blob/master/_posts/2023-01-07-BOJ-15686.md)
+    - 프로그래머스(Programmers)
+        - [60061번 - 기둥과 보 설치](https://github.com/jjjuuuun/jjjuuuun.github.io/blob/master/_posts/2023-01-07-Programmers-60061.md)

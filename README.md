@@ -18,4 +18,7 @@
     - 백준(BOJ)
         - [14502번 - 연구소](https://github.com/jjjuuuun/jjjuuuun.github.io/blob/master/_posts/2023-01-06-BOJ-14502.md)
         - [18352번 - 특정 거리의 도시 찾기](https://github.com/jjjuuuun/jjjuuuun.github.io/blob/master/_posts/2023-01-06-BOJ-18352.md)
-        
+- 01.07
+    - 백준(BOJ)
+        - [3190번 - 뱀](https://github.com/jjjuuuun/jjjuuuun.github.io/blob/master/_posts/2023-01-07-BOJ-3190.md)
+        - [15686번 - 치킨 배달](https://github.com/jjjuuuun/jjjuuuun.github.io/blob/master/_posts/2023-01-07-BOJ-15686.md)

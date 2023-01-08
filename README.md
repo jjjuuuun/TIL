@@ -24,3 +24,7 @@
         - [15686번 - 치킨 배달](https://github.com/jjjuuuun/jjjuuuun.github.io/blob/master/_posts/2023-01-07-BOJ-15686.md)
     - 프로그래머스(Programmers)
         - [60061번 - 기둥과 보 설치](https://github.com/jjjuuuun/jjjuuuun.github.io/blob/master/_posts/2023-01-07-Programmers-60061.md)
+- 01.08
+    - 백준(BOJ)
+        - [1932번 - 정수 삼각형](https://github.com/jjjuuuun/jjjuuuun.github.io/blob/master/_posts/2023-01-08-BOJ-1932.md)
+        - [18405번 - 경쟁적 전염](https://github.com/jjjuuuun/jjjuuuun.github.io/blob/master/_posts/2023-01-08-BOJ-18405.md)

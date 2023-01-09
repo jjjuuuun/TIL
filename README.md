@@ -28,3 +28,6 @@
     - 백준(BOJ)
         - [1932번 - 정수 삼각형](https://github.com/jjjuuuun/jjjuuuun.github.io/blob/master/_posts/2023-01-08-BOJ-1932.md)
         - [18405번 - 경쟁적 전염](https://github.com/jjjuuuun/jjjuuuun.github.io/blob/master/_posts/2023-01-08-BOJ-18405.md)
+- 01.09
+    - 백준(BOJ)
+        - [11404번 - 플로이드](https://github.com/jjjuuuun/jjjuuuun.github.io/blob/master/_posts/2023-01-09-BOJ-11404.md)

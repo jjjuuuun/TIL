@@ -31,3 +31,10 @@
 - 01.09
     - 백준(BOJ)
         - [11404번 - 플로이드](https://github.com/jjjuuuun/jjjuuuun.github.io/blob/master/_posts/2023-01-09-BOJ-11404.md)
+- 01.19
+    - 프로그래머스(Programmers)
+        - [12924번 - 숫자의 표현](https://github.com/jjjuuuun/jjjuuuun.github.io/blob/master/_posts/2023-01-19-Programmers-12924.md)
+        - [12953번 - N개의 최소공배수](https://github.com/jjjuuuun/jjjuuuun.github.io/blob/master/_posts/2023-01-19-Programmers-12953.md)
+        - [42885번 - 구명보트](https://github.com/jjjuuuun/jjjuuuun.github.io/blob/master/_posts/2023-01-19-Programmers-42885.md)
+    - 파이썬(Python)
+        - [문자열 함수 - 대소문자 변환](https://github.com/jjjuuuun/jjjuuuun.github.io/blob/master/_posts/2023-01-19-Python-String-1.md)

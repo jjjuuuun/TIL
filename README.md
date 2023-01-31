@@ -38,9 +38,12 @@
         - [42885번 - 구명보트](https://github.com/jjjuuuun/jjjuuuun.github.io/blob/master/_posts/2023-01-19-Programmers-42885.md)
     - 파이썬(Python)
         - [문자열 함수 - 대소문자 변환](https://github.com/jjjuuuun/jjjuuuun.github.io/blob/master/_posts/2023-01-19-Python-String-1.md)
--01.20
+- 01.20
     - 프로그래머스(Programmers)
         - [17677번 - [1차] 뉴스 클러스터링](https://github.com/jjjuuuun/jjjuuuun.github.io/blob/master/_posts/2023-01-20-Programmers-17677.md)
         - [87390번 - n^2 배열 자르기](https://github.com/jjjuuuun/jjjuuuun.github.io/blob/master/_posts/2023-01-20-Programmers-87390.md)
     - 파이썬(Python)
         - [collections - Counter](https://github.com/jjjuuuun/jjjuuuun.github.io/blob/master/_posts/2023-01-20-Python-Collections-Counter.md)
+- 01.30
+    - 파이썬(Python)
+            - [Tree - 탐색하는 방법](https://github.com/jjjuuuun/jjjuuuun.github.io/blob/master/_posts/2023-01-30-Python-Tree-1.md)

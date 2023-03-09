@@ -52,11 +52,14 @@
         - [List - Operation](https://github.com/jjjuuuun/jjjuuuun.github.io/blob/master/_posts/2023-03-07-Python-List-Operation.md)
         - [List - Copy](https://github.com/jjjuuuun/jjjuuuun.github.io/blob/master/_posts/2023-03-07-Python-List-Copy.md)
         - [List - Comprehension](https://github.com/jjjuuuun/jjjuuuun.github.io/blob/master/_posts/2023-03-07-Python-List-Comprehension.md)
-        - [String - 다양한 문자열 표현](https://github.com/jjjuuuun/jjjuuuun.github.io/blob/master/_posts/2023-03-07-Python-String-2.md)
         - [String - Formatting](https://github.com/jjjuuuun/jjjuuuun.github.io/blob/master/_posts/2023-03-07-Python-Formatting.md)
         - [collections - deque](https://github.com/jjjuuuun/jjjuuuun.github.io/blob/master/_posts/2023-03-07-Python-Collections-deque.md)
         - [collections - defaultdict](https://github.com/jjjuuuun/jjjuuuun.github.io/blob/master/_posts/2023-03-07-Python-Collections-defaultdict.md)
         - [collections - namedtuple](https://github.com/jjjuuuun/jjjuuuun.github.io/blob/master/_posts/2023-03-07-Python-Collections-namedtuple.md)
         - [Function - 호출 방법](https://github.com/jjjuuuun/jjjuuuun.github.io/blob/master/_posts/2023-03-07-Python-Function-Call.md)
         - [Asterisk - args, kwargs](https://github.com/jjjuuuun/jjjuuuun.github.io/blob/master/_posts/2023-03-07-Python-Asterisk.md)
-        - [Generator - yield](https://github.com/jjjuuuun/jjjuuuun.github.io/blob/master/_posts/2023-03-07-Python-Generator-yield.md)
+- 03.08
+    - 파이썬(Python)
+        - [Function - 파이썬 함수의 특징](https://github.com/jjjuuuun/jjjuuuun.github.io/blob/master/_posts/2023-03-08-Python-Function-FirstClassObjects.md)
+        - [UnderScore](https://github.com/jjjuuuun/jjjuuuun.github.io/blob/master/_posts/2023-03-08-Python-UnderScore.md)
+- 03.09

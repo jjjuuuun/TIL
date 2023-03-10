@@ -55,7 +55,6 @@
         - [collections - deque](https://github.com/jjjuuuun/jjjuuuun.github.io/blob/master/_posts/2023-03-07-Python-Collections-deque.md)
         - [collections - defaultdict](https://github.com/jjjuuuun/jjjuuuun.github.io/blob/master/_posts/2023-03-07-Python-Collections-defaultdict.md)
         - [collections - namedtuple](https://github.com/jjjuuuun/jjjuuuun.github.io/blob/master/_posts/2023-03-07-Python-Collections-namedtuple.md)
-        - [Asterisk - args, kwargs](https://github.com/jjjuuuun/jjjuuuun.github.io/blob/master/_posts/2023-03-07-Python-Asterisk.md)
 - 03.08
     - 파이썬(Python)
         - [Function - 파이썬 함수의 특징](https://github.com/jjjuuuun/jjjuuuun.github.io/blob/master/_posts/2023-03-08-Python-Function-FirstClassObjects.md)

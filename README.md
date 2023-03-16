@@ -63,3 +63,8 @@
     - 파이썬(Python)
         - [Function - 호출 방법](https://github.com/jjjuuuun/jjjuuuun.github.io/blob/master/_posts/2023-03-09-Python-Function-Call.md)
         - [String - Formatting](https://github.com/jjjuuuun/jjjuuuun.github.io/blob/master/_posts/2023-03-09-Python-Formatting.md)
+
+- 03.16
+    - PyTorch
+        - [Tensor를 만드는 방법](https://github.com/jjjuuuun/jjjuuuun.github.io/blob/master/_posts/2023-03-16-PyTorch-Tensor-tensor-create.md)
+        - [Tensor를 복사하는 방법](https://github.com/jjjuuuun/jjjuuuun.github.io/blob/master/_posts/2023-03-16-PyTorch-Tensor-tensor-copy.md)

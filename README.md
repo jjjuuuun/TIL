@@ -75,4 +75,4 @@
     - [Tensor의 모양을 바꾸는 방법](https://github.com/jjjuuuun/jjjuuuun.github.io/blob/master/_posts/2023-03-17-PyTorch-Tensor-tensor-reshape.md)
 - 05.04
   - 2-Stage Object Detection
-  - [RCNN](https://github.com/jjjuuuun/jjjuuuun.github.io/blob/master/_posts/2023-05-04-RCNN.md)
+    - [RCNN](https://github.com/jjjuuuun/jjjuuuun.github.io/blob/master/_posts/2023-05-04-RCNN.md)

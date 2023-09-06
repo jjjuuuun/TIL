@@ -70,3 +70,13 @@
 - [11052번 - 카드 구매하기](https://github.com/jjjuuuun/jjjuuuun.github.io/blob/master/_posts/2023-08-30-BOJ-11052.md)
 
 </details>
+
+</details>
+
+<details>
+<summary>Sep.</summary>
+
+- [BPE](https://github.com/jjjuuuun/jjjuuuun.github.io/blob/master/_posts/2023-09-06-BPE.md)
+- [WordPiece](https://github.com/jjjuuuun/jjjuuuun.github.io/blob/master/_posts/2023-09-06-WordPiece.md)
+
+</details>

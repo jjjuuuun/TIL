@@ -79,5 +79,8 @@
 - [BPE](https://github.com/jjjuuuun/jjjuuuun.github.io/blob/master/_posts/2023-09-06-BPE.md)
 - [WPM](https://github.com/jjjuuuun/jjjuuuun.github.io/blob/master/_posts/2023-09-06-WordPiece.md)
 - [Transformer](https://github.com/jjjuuuun/jjjuuuun.github.io/blob/master/_posts/2023-09-07-Transformer.md)
+- [1107번 - 리모콘](https://github.com/jjjuuuun/jjjuuuun.github.io/blob/master/_posts/2023-09-10-BOJ-1107.md)
+- [1967번 - 트리의 지름](https://github.com/jjjuuuun/jjjuuuun.github.io/blob/master/_posts/2023-09-10-BOJ-1967.md)
+- [2250번 - 트리의 높이와 너비](https://github.com/jjjuuuun/jjjuuuun.github.io/blob/master/_posts/2023-09-10-BOJ-2250.md)
 
 </details>

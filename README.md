@@ -83,5 +83,6 @@
 - [1967번 - 트리의 지름](https://github.com/jjjuuuun/jjjuuuun.github.io/blob/master/_posts/2023-09-10-BOJ-1967.md)
 - [2250번 - 트리의 높이와 너비](https://github.com/jjjuuuun/jjjuuuun.github.io/blob/master/_posts/2023-09-10-BOJ-2250.md)
 - [1707번 - 이분 그래프](https://github.com/jjjuuuun/jjjuuuun.github.io/blob/master/_posts/2023-09-29-BOJ-1707.md)
+- [ViT](https://github.com/jjjuuuun/jjjuuuun.github.io/blob/master/_posts/2023-09-30-ViT.md)
 
 </details>

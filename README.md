@@ -86,3 +86,11 @@
 - [ViT](https://github.com/jjjuuuun/jjjuuuun.github.io/blob/master/_posts/2023-09-30-ViT.md)
 
 </details>
+
+<details>
+<summary>Oct.</summary>
+
+- [17298번 오큰수](https://github.com/jjjuuuun/jjjuuuun.github.io/blob/master/_posts/2023-10-12-BOJ-17298.md)
+- [16947번 서울 지하철 2호선](https://github.com/jjjuuuun/jjjuuuun.github.io/blob/master/_posts/2023-10-12-BOJ-16947.md)
+
+</details>

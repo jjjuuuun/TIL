@@ -95,3 +95,11 @@
 - [DETR](https://github.com/jjjuuuun/jjjuuuun.github.io/blob/master/_posts/2023-10-29-DETR.md)
 
 </details>
+
+<details>
+<summary>Dec.</summary>
+
+- [2003번 - 수들의 합 2](https://github.com/jjjuuuun/jjjuuuun.github.io/blob/master/_posts/2023-12-19-BOJ-2003.md)
+- [Day 0](https://github.com/jjjuuuun/jjjuuuun.github.io/blob/master/_posts/2023-12-19-Project-Project1.md)
+
+</details>

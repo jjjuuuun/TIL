@@ -100,7 +100,7 @@
 <summary>Dec.</summary>
 
 - [2003번 - 수들의 합 2](https://github.com/jjjuuuun/jjjuuuun.github.io/blob/master/_posts/2023-12-19-BOJ-2003.md)
-- [Day 0](https://github.com/jjjuuuun/jjjuuuun.github.io/blob/master/_posts/2023-12-19-Project-Project1.md)
+- [Day 0 - Project를 시작하면서](https://github.com/jjjuuuun/jjjuuuun.github.io/blob/master/_posts/2023-12-19-Project-Project1.md)
 - [Model Compression Overview](https://github.com/jjjuuuun/jjjuuuun.github.io/blob/master/_posts/2023-12-20-Model-Compression.md)
 - [1644번 - 소수의 연속합](https://github.com/jjjuuuun/jjjuuuun.github.io/blob/master/_posts/2023-12-20-BOJ-1644.md)
 

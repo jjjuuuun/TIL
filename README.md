@@ -103,5 +103,7 @@
 - [Day 0 - Project를 시작하면서](https://github.com/jjjuuuun/jjjuuuun.github.io/blob/master/_posts/2023-12-19-Project-Project1.md)
 - [Model Compression Overview](https://github.com/jjjuuuun/jjjuuuun.github.io/blob/master/_posts/2023-12-20-Model-Compression.md)
 - [1644번 - 소수의 연속합](https://github.com/jjjuuuun/jjjuuuun.github.io/blob/master/_posts/2023-12-20-BOJ-1644.md)
+- [1806번 - 부분합](https://github.com/jjjuuuun/jjjuuuun.github.io/blob/master/_posts/2023-12-20-BOJ-1806.md)
+- [Day 1 - 졸업논문 살펴보기 & 관련 논문 리서치 & 앞으로의 방향성](https://github.com/jjjuuuun/jjjuuuun.github.io/blob/master/_posts/2023-12-19-Project-Project1-Day1.md)
 
 </details>

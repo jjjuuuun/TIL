@@ -100,16 +100,11 @@
 <summary>Dec.</summary>
 
 - [2003번 - 수들의 합 2](https://github.com/jjjuuuun/jjjuuuun.github.io/blob/master/_posts/2023-12-19-BOJ-2003.md)
-- [Day 0 - Project를 시작하면서](https://github.com/jjjuuuun/jjjuuuun.github.io/blob/master/_posts/2023-12-19-Project-Project1.md)
 - [Model Compression Overview](https://github.com/jjjuuuun/jjjuuuun.github.io/blob/master/_posts/2023-12-20-Model-Compression.md)
 - [1644번 - 소수의 연속합](https://github.com/jjjuuuun/jjjuuuun.github.io/blob/master/_posts/2023-12-20-BOJ-1644.md)
 - [1806번 - 부분합](https://github.com/jjjuuuun/jjjuuuun.github.io/blob/master/_posts/2023-12-20-BOJ-1806.md)
-- [Day 1 - 졸업논문 살펴보기 & 관련 논문 리서치 & 앞으로의 방향성](https://github.com/jjjuuuun/jjjuuuun.github.io/blob/master/_posts/2023-12-19-Project-Project1-Day1.md)
-- [Day 2 - fast.ai 알아보기 & tutorial](https://github.com/jjjuuuun/jjjuuuun.github.io/blob/master/_posts/2023-12-23-Project-Project1-Day2.md)
 - [fast.ai Overview](https://github.com/jjjuuuun/jjjuuuun.github.io/blob/master/_posts/2023-12-23-fastai-Overview.md)
 - [Tutorial - Single-label Classification](https://github.com/jjjuuuun/jjjuuuun.github.io/blob/master/_posts/2023-12-23-fastai-Tutorial-Classification.md)
-- [Day 3 - Pix2Pix 논문 읽기](https://github.com/jjjuuuun/jjjuuuun.github.io/blob/master/_posts/2023-12-26-Project-Project1-Day3.md)
 - [Pix2Pix](https://github.com/jjjuuuun/jjjuuuun.github.io/blob/master/_posts/2023-12-26-Pix2Pix.md)
-- [Day 4 - Pix2Pix 논문 읽기](https://github.com/jjjuuuun/jjjuuuun.github.io/blob/master/_posts/2023-12-28-Project-Project1-Day4.md)
 
 </details>

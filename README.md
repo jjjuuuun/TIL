@@ -108,3 +108,12 @@
 - [Pix2Pix](https://github.com/jjjuuuun/jjjuuuun.github.io/blob/master/_posts/2023-12-26-Pix2Pix.md)
 
 </details>
+
+# 2024
+
+<details>
+<summary>Jan.</summary>
+
+- [CycleGAN](https://github.com/jjjuuuun/jjjuuuun.github.io/blob/master/_posts/2024-01-02-Paper-Reading-CycleGAN.md)
+
+</details>

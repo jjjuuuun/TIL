@@ -115,5 +115,6 @@
 <summary>Jan.</summary>
 
 - [CycleGAN](https://github.com/jjjuuuun/jjjuuuun.github.io/blob/master/_posts/2024-01-02-Paper-Reading-CycleGAN.md)
+- [DDPM](https://github.com/jjjuuuun/jjjuuuun.github.io/blob/master/_posts/2024-01-03-Paper-Reading-DDPM.md)
 
 </details>

@@ -9,7 +9,7 @@
 <details>
 <summary>Jan.</summary>
 
-- [StyleGAN](https://github.com/jjjuuuun/jjjuuuun.github.io/blob/master/_posts/2023-08-24-StyleGAN.md)
+- [Paper-Review StyleGAN](https://github.com/jjjuuuun/jjjuuuun.github.io/blob/master/_posts/2023-08-24-Paper-Review-StyleGAN.md)
 - [1439번 - 뒤집기](https://github.com/jjjuuuun/jjjuuuun.github.io/blob/master/_posts/2023-08-24-BOJ-1439.md)
 - [42891번 - 무지의 먹방 라이브](https://github.com/jjjuuuun/jjjuuuun.github.io/blob/master/_posts/2023-08-24-Programmers-42891.md)
 - [60057번 - 문자열 압축](https://github.com/jjjuuuun/jjjuuuun.github.io/blob/master/_posts/2023-08-24-Programmers-60057.md)
@@ -55,14 +55,14 @@
 <details>
 <summary>May</summary>
 
-- [RCNN](https://github.com/jjjuuuun/jjjuuuun.github.io/blob/master/_posts/2023-08-24-RCNN.md)
+- [Paper-Review RCNN](https://github.com/jjjuuuun/jjjuuuun.github.io/blob/master/_posts/2023-08-24-Paper-Review-RCNN.md)
 
 </details>
 
 <details>
 <summary>Aug.</summary>
 
-- [Seq2Seq](https://github.com/jjjuuuun/jjjuuuun.github.io/blob/master/_posts/2023-08-28-Seq2Seq.md)
+- [Paper-Review Seq2Seq](https://github.com/jjjuuuun/jjjuuuun.github.io/blob/master/_posts/2023-08-28-Paper-Review-Seq2Seq.md)
 - [BLEU](https://github.com/jjjuuuun/jjjuuuun.github.io/blob/master/_posts/2023-08-28-BLEU.md)
 - [2225번 - 합분해](https://github.com/jjjuuuun/jjjuuuun.github.io/blob/master/_posts/2023-08-30-BOJ-2225.md)
 - [6588번 - 골드바흐의 추측](https://github.com/jjjuuuun/jjjuuuun.github.io/blob/master/_posts/2023-08-30-BOJ-6588.md)
@@ -78,12 +78,12 @@
 
 - [BPE](https://github.com/jjjuuuun/jjjuuuun.github.io/blob/master/_posts/2023-09-06-BPE.md)
 - [WPM](https://github.com/jjjuuuun/jjjuuuun.github.io/blob/master/_posts/2023-09-06-WordPiece.md)
-- [Transformer](https://github.com/jjjuuuun/jjjuuuun.github.io/blob/master/_posts/2023-09-07-Transformer.md)
+- [Paper-Review Transformer](https://github.com/jjjuuuun/jjjuuuun.github.io/blob/master/_posts/2023-09-07-Paper-Review-Transformer.md)
 - [1107번 - 리모콘](https://github.com/jjjuuuun/jjjuuuun.github.io/blob/master/_posts/2023-09-10-BOJ-1107.md)
 - [1967번 - 트리의 지름](https://github.com/jjjuuuun/jjjuuuun.github.io/blob/master/_posts/2023-09-10-BOJ-1967.md)
 - [2250번 - 트리의 높이와 너비](https://github.com/jjjuuuun/jjjuuuun.github.io/blob/master/_posts/2023-09-10-BOJ-2250.md)
 - [1707번 - 이분 그래프](https://github.com/jjjuuuun/jjjuuuun.github.io/blob/master/_posts/2023-09-29-BOJ-1707.md)
-- [ViT](https://github.com/jjjuuuun/jjjuuuun.github.io/blob/master/_posts/2023-09-30-ViT.md)
+- [Paper-Review ViT](https://github.com/jjjuuuun/jjjuuuun.github.io/blob/master/_posts/2023-09-30-Paper-Review-ViT.md)
 
 </details>
 
@@ -92,7 +92,7 @@
 
 - [17298번 오큰수](https://github.com/jjjuuuun/jjjuuuun.github.io/blob/master/_posts/2023-10-12-BOJ-17298.md)
 - [16947번 서울 지하철 2호선](https://github.com/jjjuuuun/jjjuuuun.github.io/blob/master/_posts/2023-10-12-BOJ-16947.md)
-- [DETR](https://github.com/jjjuuuun/jjjuuuun.github.io/blob/master/_posts/2023-10-29-DETR.md)
+- [Paper-Review DETR](https://github.com/jjjuuuun/jjjuuuun.github.io/blob/master/_posts/2023-10-29-Paper-Review-DETR.md)
 
 </details>
 
@@ -105,7 +105,7 @@
 - [1806번 - 부분합](https://github.com/jjjuuuun/jjjuuuun.github.io/blob/master/_posts/2023-12-20-BOJ-1806.md)
 - [fast.ai Overview](https://github.com/jjjuuuun/jjjuuuun.github.io/blob/master/_posts/2023-12-23-fastai-Overview.md)
 - [Tutorial - Single-label Classification](https://github.com/jjjuuuun/jjjuuuun.github.io/blob/master/_posts/2023-12-23-fastai-Tutorial-Classification.md)
-- [Pix2Pix](https://github.com/jjjuuuun/jjjuuuun.github.io/blob/master/_posts/2023-12-26-Pix2Pix.md)
+- [Paper-Reading Pix2Pix](https://github.com/jjjuuuun/jjjuuuun.github.io/blob/master/_posts/2023-12-26-Paper-Reading-Pix2Pix.md)
 
 </details>
 
@@ -114,7 +114,7 @@
 <details>
 <summary>Jan.</summary>
 
-- [CycleGAN](https://github.com/jjjuuuun/jjjuuuun.github.io/blob/master/_posts/2024-01-02-Paper-Reading-CycleGAN.md)
-- [DDPM](https://github.com/jjjuuuun/jjjuuuun.github.io/blob/master/_posts/2024-01-03-Paper-Reading-DDPM.md)
+- [Paper-Reading CycleGAN](https://github.com/jjjuuuun/jjjuuuun.github.io/blob/master/_posts/2024-01-02-Paper-Reading-CycleGAN.md)
+- [Paper-Reading DDPM](https://github.com/jjjuuuun/jjjuuuun.github.io/blob/master/_posts/2024-01-03-Paper-Reading-DDPM.md)
 
 </details>

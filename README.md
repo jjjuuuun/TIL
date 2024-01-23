@@ -116,5 +116,6 @@
 
 - [Paper-Reading CycleGAN](https://github.com/jjjuuuun/jjjuuuun.github.io/blob/master/_posts/2024-01-02-Paper-Reading-CycleGAN.md)
 - [Paper-Reading DDPM](https://github.com/jjjuuuun/jjjuuuun.github.io/blob/master/_posts/2024-01-03-Paper-Reading-DDPM.md)
+- [Paper-Review DDPM](https://github.com/jjjuuuun/jjjuuuun.github.io/blob/master/_posts/2024-01-23-Paper-Review-DDPM.md)
 
 </details>

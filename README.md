@@ -126,3 +126,10 @@
 - [Paper-Reading DDIM](https://github.com/jjjuuuun/jjjuuuun.github.io/blob/master/_posts/2024-02-28-Paper-Reading-DDIM.md)
 
 </details>
+
+<details>
+<summary>Mar.</summary>
+
+- [Paper-Review DDIM](https://github.com/jjjuuuun/jjjuuuun.github.io/blob/master/_posts/2024-03-08-Paper-Review-DDIM.md)
+
+</details>
